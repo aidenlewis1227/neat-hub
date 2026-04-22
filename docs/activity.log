@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-04-21T20:26:19Z
-Entry: chore: prune redundant imports and clean code comments
-Sequence: 13/86
+Last updated: 2026-04-22T17:08:06Z
+Entry: refactor: extract reusable helper routines into utility module
+Sequence: 14/86
