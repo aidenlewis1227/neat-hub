@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-26T11:00:39Z
-Entry: docs: add architecture diagram and sequence notes to README
-Sequence: 32/86
+Last updated: 2026-05-27T11:38:34Z
+Entry: feat: add structured logging and telemetry events
+Sequence: 33/86
